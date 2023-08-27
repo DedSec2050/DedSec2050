@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dedsec2050&label=Profile%20views&color=0e75b6&style=flat" alt="dedsec2050" /> </p>
 
-- 🔭 I’m currently working on **my Web Development skills**
+<p align="center">- 🔭 I’m currently working on **my Web Development skills**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
