@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm <em>Marsal</em></h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A newbie web developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dedsec2050&label=Profile%20views&color=0e75b6&style=flat" alt="dedsec2050" /> </p>
 
