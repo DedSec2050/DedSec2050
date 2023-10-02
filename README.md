@@ -24,3 +24,8 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DedSec2050&theme=tokyonight">
 </p>
+
+<p>
+  
+[![An image of @dedsec2050's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dedsec2050)](https://holopin.io/@dedsec2050)
+</p>
