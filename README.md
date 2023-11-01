@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm <em>Marsal</em></h1>
 <h3 align="center">A newbie web developer.</h3>
 
-<p align="center">View Count 👀<br><img src="https://profile-counter.glitch.me/DedSec2050/count.svg" />  </p>
+<p align="center">Visitors Count 👀<br><img src="https://profile-counter.glitch.me/DedSec2050/count.svg" />  </p>
 
 <p align="center">- 🔭 I’m currently working on <b>my Web Development skills</b> </p>
 
