@@ -3,7 +3,7 @@
 
 <p align="center">Visitors Count 👀<br><img src="https://profile-counter.glitch.me/DedSec2050/count.svg" />  </p>
 
-<p align="center">- 🔭 I’m currently working on <b>my Web Development skills</b> </p>
+<p align="center">- 🔭 I’m currently working on <b>my App Development skills</b> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
