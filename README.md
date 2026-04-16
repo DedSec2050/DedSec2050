@@ -16,29 +16,32 @@
 
 ```go
 type Developer struct {
-	Name      string
-	Role      string
-	Knowledge struct {
-		Languages    []string
-		Backend      []string
-		DataEng      []string 
-		IoT          []string
-		Tools        []string
-	}
+    Name      string
+    Role      string
+    Knowledge struct {
+        Languages    []string
+        Backend      []string
+        DataEng      []string 
+        Tools        []string
+    }
 }
 
 func main() {
-	me := Developer{
-		Name: "DedSec",
-		Role: "Data Engineer & Backend Developer",
-		Knowledge: {
-			Languages: []string{"Go", "Python", "Java", "C++", "SQL"},
-			Backend:   []string{"Raft Consensus", "Gin", "GoFr", "Ethereum/Web3"},
-			DataEng:   []string{"Azure Databricks", "Delta Lake", "Causal Inference", "Spark"},
-			IoT:       []string{"Arduino", "Raspberry Pi", "Real-time Monitoring"},
-			Tools:     []string{"Justfile", "Git", "Linux", "Docker", "Unity"},
-		},
-	}
+    me := Developer{
+        Name: "Marsal Soren", [cite: 1]
+        Role: "SDE Intern & Backend Developer", [cite: 6, 9]
+        Knowledge: struct {
+            Languages    []string
+            Backend      []string
+            DataEng      []string
+            Tools        []string
+        }{
+            Languages: []string{"Golang", "JavaScript", "TypeScript", "Python", "C++"}, [cite: 35]
+            Backend:   []string{"Node.js", "Golang Gin", "Django", "Fast API", "Solidity", "WebSockets"}, [cite: 24, 30, 38]
+            DataEng:   []string{"PostgreSQL", "MongoDB", "Firebase RTDB", "Scalable Data Architectures"}, [cite: 8, 39]
+            Tools:     []string{"Terraform", "Ansible", "Docker", "Podman", "AWS", "Azure", "Cloudflare", "Justfile"}, [cite: 37, 40]
+        },
+    }
 }
 ```
 
