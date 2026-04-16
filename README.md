@@ -28,19 +28,18 @@ type Developer struct {
 
 func main() {
     me := Developer{
-        Name: "Marsal Soren", [cite: 1]
-        Role: "SDE Intern & Backend Developer", [cite: 6, 9]
+        Name: "Marsal Soren", 
+        Role: "DevOps & Backend Developer",
         Knowledge: struct {
             Languages    []string
             Backend      []string
             DataEng      []string
             Tools        []string
         }{
-            Languages: []string{"Golang", "JavaScript", "TypeScript", "Python", "C++"}, [cite: 35]
-            Backend:   []string{"Node.js", "Golang Gin", "Django", "Fast API", "Solidity", "WebSockets"}, [cite: 24, 30, 38]
-            DataEng:   []string{"PostgreSQL", "MongoDB", "Firebase RTDB", "Scalable Data Architectures"}, [cite: 8, 39]
-            Tools:     []string{"Terraform", "Ansible", "Docker", "Podman", "AWS", "Azure", "Cloudflare", "Justfile"}, [cite: 37, 40]
-        },
+            Languages: []string{"Golang", "JavaScript", "TypeScript", "Python", "C++"},
+            Backend:   []string{"Node.js", "Golang Gin", "Django", "Fast API", "Solidity", "WebSockets"},
+            DataEng:   []string{"PostgreSQL", "MongoDB", "Firebase RTDB", "Scalable Data Architectures"},
+            Tools:     []string{"Terraform", "Ansible", "Docker", "Podman", "AWS", "Azure", "Cloudflare", "Justfile"},
     }
 }
 ```
