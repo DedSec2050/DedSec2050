@@ -35,7 +35,8 @@ func main() {
             Backend      []string
             DataEng      []string
             Tools        []string
-        }{
+        }
+    {
             Languages: []string{"Golang", "JavaScript", "TypeScript", "Python", "C++"},
             Backend:   []string{"Node.js", "Golang Gin", "Django", "Fast API", "Solidity", "WebSockets"},
             DataEng:   []string{"PostgreSQL", "MongoDB", "Firebase RTDB", "Scalable Data Architectures"},
